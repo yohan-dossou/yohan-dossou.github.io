@@ -24,9 +24,9 @@ repository               : "yohan-dossou/yohan-dossou.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : #
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #
   email            : "yohan.dossou[at]ens-paris-saclay.fr" 
 
   # Academic websites
